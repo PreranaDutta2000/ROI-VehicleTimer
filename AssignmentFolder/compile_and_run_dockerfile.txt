@@ -1,0 +1,5 @@
+Build 
+docker build -t vehicle-detection .
+
+Run
+sudo docker run --rm -it -v "$(pwd)/output:/app/output" vehicle-detection

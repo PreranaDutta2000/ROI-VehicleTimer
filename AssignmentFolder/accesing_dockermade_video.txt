@@ -1,0 +1,5 @@
+If docker based output video has playing issues , change permission using below command 
+sudo chown your_user_name:your_user_name path_to_video_output.mp4
+
+
+
